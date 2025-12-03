@@ -1,0 +1,13 @@
+md5: 15e71b863fe93f396c2959ab4a73913e
+frozen: true
+deps:
+- etag: 08a89ad8e1f19791031001
+  size: 13931
+  version_id: '1764437463010600'
+  hash: md5
+  path: gs://mlops_datasets_am/heart_disease_detection_ds/data.csv
+outs:
+- md5: 703ac02bbdda611aeddce18584312d9b
+  size: 13931
+  hash: md5
+  path: data.csv
